@@ -1,0 +1,17 @@
+
+{
+    "person": {
+        
+        "name": "Dambar B. Bista",
+        "occupation": "Software Engineer",
+        "hobbies": ["Reading", "Coding", "Traveling"],
+        
+        "car": {
+            "first_car": "Hyundai",
+            "second_car": "Nissan Altima",
+            "third_car": "Nissan Rough"
+        }
+        
+    }
+    
+}
